@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<camper>
+   <zapatos>
+           <name model='8'>Runner K21</name>
+           <talla>39</talla>
+           <type>Botines</type>
+           <color>Negro</color>
+           <price currency="€">150</price>
+   </zapatos>
+   <zapatos>
+           <name model='1'>BCN</name>
+           <talla>38</talla>
+           <type>Sandalias</type>
+           <color>Rosa</color>
+           <price currency="€">170</price>
+   </zapatos>
+   <zapatos>
+           <name model='6'>Twins</name>
+           <talla>24</talla>
+           <type>Zapatos</type>
+           <color>Blanco</color>
+           <price currency="€">69</price>
+   </zapatos>
+   <zapatos>
+           <name model='7'>Kobarah</name>
+           <talla>37</talla>
+           <type>Sandalias</type>
+           <color>Azul claro</color>
+           <price currency="€">130</price>
+   </zapatos>
+</camper>
